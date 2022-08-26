@@ -118,3 +118,7 @@ function sumOfCartDestructured({ cart, discount }) {
 // 3=> git commit -m "message"
 // 4=> git remote add <Name or remote> <GitHubUrl>
 // 5=> got push <Name or remote> <Branch( usually master)>
+
+
+
+// changes from other laptop
